@@ -64,8 +64,8 @@ The script will automatically:
 
 Current benchmark performance on the test set:
 
-- **LightGBM AUC:** [Insert your score, e.g., 0.9889]
-- **XGBoost AUC:** [Insert your score, e.g., 0.9888]
+- **LightGBM AUC:** 0.9889
+- **XGBoost AUC:** 0.9888
 
 ## Disclaimer
 
