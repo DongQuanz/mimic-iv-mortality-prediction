@@ -1,0 +1,8 @@
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm
+scikit-learn
+xgboost
+lightgbm
+sentence-transformers
+icd-mappings

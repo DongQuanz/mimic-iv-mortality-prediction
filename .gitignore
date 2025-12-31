@@ -1,0 +1,17 @@
+# Ignore data files
+data/
+*.csv
+*.parquet
+*.npz
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore Notebook checkpoints
+.ipynb_checkpoints
